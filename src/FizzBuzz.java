@@ -22,7 +22,7 @@ class FizzBuzz {
 
             } else if (divisibleBy5) {
 
-                System.out.println("Buzz");
+                System.out.println("Buzzzz");
 
             } else {
 
@@ -32,3 +32,4 @@ class FizzBuzz {
         }
     }
 }
+// Push test
